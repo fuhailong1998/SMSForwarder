@@ -1,0 +1,7 @@
+id=sms_forwarder
+name=SMS/Call Forwarder (Bark)
+version=v1.0.0
+versionCode=1
+author=SMSForwarder
+description=📩 短信/来电转发到 Bark 推送服务 | Forward SMS and incoming calls to Bark push notification service
+updateJson=
