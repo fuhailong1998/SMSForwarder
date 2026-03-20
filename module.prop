@@ -1,0 +1,6 @@
+id=sms_forwarder
+name=SMS Forwarder
+version=v1.0.0
+versionCode=1
+author=SMSForwarder
+description=Monitor incoming SMS and calls, forward notifications to iOS via Bark push service. Supports multiple Bark endpoints, SIM slot identification, and phone number location lookup.
